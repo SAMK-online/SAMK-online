@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAMK-online
+- 👋 Hi, I’m Abdul Malik Khudus Shaik
 - Graduate Students at George Mason University, pursuing Masters of Computer Science
 - 👀 I’m interested in Software Developement, ML, Web Dev.
 - 🌱 I’m currently learning Deep Learning
