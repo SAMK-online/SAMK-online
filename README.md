@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Malik Khudus Shaik
-- Graduate Student at George Mason University, pursuing Masters of Computer Science
+- MSCS Grad from George Mason University
 - 👀 I’m interested in AI, Data Analysis, Software Developement, ML, Web Dev.
 - 🌱 I’m currently exploring the depths of Generative AI
 - 💞️ I’m looking to collaborate on ML/AI projects
