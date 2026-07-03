@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Abdul Malik Khudus Shaik
 - MSCS Grad from George Mason University
-- 👀 I’m interested in AI, Data Analysis, Software Developement, ML, Web Dev.
-- 🌱 I’m currently exploring the depths of Generative AI
-- 💞️ I’m looking to collaborate on ML/AI projects
-- 📫 How to reach me abdulmalikshaik2001@gmail.com
+- 👀 AI builder
+- 🌱 Hire Me
+- 💞️ Looking to collaborate
+- 📫 How to reach me shaikabdulmalik958@gmail.com
 
 
 ## 🌐 Socials:
