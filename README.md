@@ -2,13 +2,6 @@
 
 <img src="./samk-terminal.svg" width="900" alt="Terminal introduction for Abdul Malik Khudus Shaik" />
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samk19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samk19)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdul-malik-portfolio.vercel.app)
-[![X](https://img.shields.io/badge/X-@SAMK__online-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SAMK_online)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikabdulmalik958@gmail.com)
-
 </div>
 
 ## `samk@github ~ $ ./about.sh`
@@ -94,15 +87,19 @@ I am an AI builder who enjoys turning ideas and data into useful software. My in
   <a href="https://github.com/SAMK-online?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
 
-## `samk@github ~ $ ./connect.sh`
-
-I am always interested in thoughtful AI projects, engineering challenges, and opportunities to build useful products with great people.
-
-```text
-$ contact --email shaikabdulmalik958@gmail.com
-> Message received. Let's build something meaningful.
-```
-
 <div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repositories and connect.</sub>
+
+<h3><code>samk@github ~ $ ./links.sh</code></h3>
+
+<p><strong>AI Builder · Software Engineer · MSCS Graduate</strong></p>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ABDUL_MALIK-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://abdul-malik-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ABDUL_MALIK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-malik-khudus-shaik-b46b161ab/)
+[![X](https://img.shields.io/badge/X-@SAMK__ONLINE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SAMK_online)
+[![Email](https://img.shields.io/badge/EMAIL-LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikabdulmalik958@gmail.com)
+
+<br><br>
+
+<sub>Open to thoughtful AI projects, engineering challenges, and opportunities to build useful products with great people.</sub>
+
 </div>
