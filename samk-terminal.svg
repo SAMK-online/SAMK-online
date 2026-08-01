@@ -1,0 +1,47 @@
+<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abdul Malik Khudus Shaik terminal profile</title>
+  <desc id="desc">A terminal-inspired introduction identifying Abdul as an AI builder and computer science graduate who is open to opportunities.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="900" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="55" y1="0" x2="790" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F81F7" />
+      <stop offset="0.48" stop-color="#A371F7" />
+      <stop offset="1" stop-color="#39D353" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#010409" flood-opacity="0.45" />
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#30363D" stroke-width="0.7" opacity="0.22" />
+    </pattern>
+  </defs>
+
+  <rect x="15" y="15" width="870" height="290" rx="16" fill="#010409" opacity="0.45" filter="url(#shadow)" />
+  <rect x="15" y="15" width="870" height="290" rx="16" fill="url(#panel)" stroke="#30363D" stroke-width="2" />
+  <path d="M15 64H885" stroke="#30363D" stroke-width="2" />
+  <circle cx="43" cy="40" r="7" fill="#FF5F56" />
+  <circle cx="68" cy="40" r="7" fill="#FFBD2E" />
+  <circle cx="93" cy="40" r="7" fill="#27C93F" />
+  <text x="450" y="46" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">samk@github: ~/profile</text>
+
+  <rect x="16" y="65" width="868" height="239" fill="url(#grid)" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="55" y="105" fill="#8B949E" font-size="16"><tspan fill="#39D353">samk@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#F0F6FC">$ whoami</tspan></text>
+
+    <text x="55" y="157" fill="url(#accent)" font-size="32" font-weight="700" letter-spacing="1">ABDUL MALIK KHUDUS SHAIK</text>
+    <rect x="55" y="174" width="640" height="3" rx="1.5" fill="url(#accent)" />
+
+    <text x="55" y="211" fill="#C9D1D9" font-size="18" letter-spacing="0.8">AI BUILDER  //  MSCS GRADUATE  //  PROBLEM SOLVER</text>
+
+    <text x="55" y="252" fill="#8B949E" font-size="16"><tspan fill="#39D353">samk@github</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#F0F6FC">$ status</tspan></text>
+    <text x="55" y="280" fill="#39D353" font-size="16">● OPEN TO OPPORTUNITIES &amp; COLLABORATION</text>
+    <rect x="485" y="266" width="10" height="18" rx="1" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
