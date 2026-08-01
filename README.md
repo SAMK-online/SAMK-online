@@ -5,6 +5,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samk19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samk19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://abdul-malik-portfolio.vercel.app)
 [![X](https://img.shields.io/badge/X-@SAMK__online-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SAMK_online)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikabdulmalik958@gmail.com)
 
@@ -67,13 +68,31 @@ I am an AI builder who enjoys turning ideas and data into useful software. My in
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
 </p>
 
-## `samk@github ~ $ ./activity.sh`
+## `samk@github ~ $ ls ./featured-builds`
 
-<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/SAMK-online/Connexted">CONNEXTed</a></h3>
+      <p>A WhatsApp-first GTM workflow that turns event conversations into enriched leads, evidence-backed signals, and human-reviewed outreach.</p>
+      <p><code>FastAPI</code> <code>React</code> <code>LangGraph</code> <code>Supabase</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/SAMK-online/Traceline">Traceline</a></h3>
+      <p>A shared CPA and client tax workspace with role-aware workflows, source-linked field review, and inspectable AI reasoning.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Zustand</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/SAMK-online/AmigoAR">AR Autopilot</a></h3>
+      <p>A healthcare receivables cockpit for aging analysis, risk-ranked accounts, and review-ready collection workflows.</p>
+      <p><code>TypeScript</code> <code>Vite</code> <code>Anthropic</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+</table>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAMK-online&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="Abdul's GitHub contribution activity" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/SAMK-online?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
 
 ## `samk@github ~ $ ./connect.sh`
 
